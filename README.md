@@ -32,4 +32,4 @@ These results indicate a highly stable theoretical synthesis pathway, minimizing
 ## 🛠️ How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/softevar/GCRL-Superheavy-Element-Synthesis.git](https://github.com/softevar/GCRL-Superheavy-Element-Synthesis.git)
+   git clone https://github.com/softevar/Quantum-Informed-GCRL-Engine.git
